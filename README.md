@@ -268,9 +268,9 @@ Focus marketing investment on categories with the highest revenue contribution.
 
 Kaustubh Moru
 
-GitHub: [Add GitHub Profile]
+
 LinkedIn: [Add LinkedIn Profile]
-Portfolio: [Add Portfolio Link]
+
 
 Live Dashboard:
 https://olist-fintech-commerce-dashboard-rx4qmy.camelai.app/
